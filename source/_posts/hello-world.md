@@ -44,7 +44,7 @@ int main(void) {
 
 ### yaml
 
-```yml
+```yaml
 stellar:
   version: '1.30.1'
   homepage: 'https://xaoxuu.com/wiki/stellar/'
