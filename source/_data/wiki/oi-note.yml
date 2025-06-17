@@ -1,0 +1,21 @@
+name: NOI 一轮复习
+title: NOI 一轮复习
+subtitle: "james1BadCreeper's Notes | For NOI & ICPC"
+tags: 算法竞赛
+icon: https://gcore.jsdelivr.net/npm/volantis-static/media/twemoji/assets/svg/1f4da.svg
+cover: https://gcore.jsdelivr.net/npm/volantis-static/media/twemoji/assets/svg/1f4da.svg
+description: james1BadCreeper 的 NOI 一轮复习笔记，现已重新整理与扩充。
+coverpage: true
+search:
+  filter: /wiki/oi-note
+  placeholder: 在 oi-note 中搜索...
+leftbar: 
+  - tree
+comment_title: '您可以在这里交流与讨论，如有问题或建议请指出，支持 LaTeX 语法。'
+base_dir: /wiki/oi-note/
+tree:
+  '快速开始':
+    - index
+  'I：优化技巧':
+    - 1-1
+    - 1-2
