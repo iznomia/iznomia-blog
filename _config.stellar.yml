@@ -424,7 +424,7 @@ style:
     logo: '"LXGW Wenkai", "PingFang SC", "HarmonyOS Sans SC", system-ui, -apple-system, "Microsoft Yahei", "Segoe UI", Roboto, Ubuntu, "Helvetica Neue", Arial, "WenQuanYi Micro Hei", sans-serif'
     body: '"PingFang SC", "HarmonyOS Sans SC", -apple-system, "Microsoft Yahei", "Segoe UI", Roboto, Ubuntu, "Helvetica Neue", Arial, "WenQuanYi Micro Hei", sans-serif'
     code: '"Jetbrains Mono", Menlo, Monaco, Consolas, system-ui, "Courier New", monospace, sans-serif'
-    codeblock: '"Jetbrains Mono", "Fira Code", "Cascadia Code", Menlo, Monaco, Consolas, system-ui, "Courier New", monospace, sans-serif'
+    codeblock: '"Jetbrains Mono", "Fira Code", "Cascadia Code", Menlo, Monaco, Consolas, "PingFang SC", "HarmonyOS Sans SC", system-ui, "Courier New", monospace, sans-serif'
   text-align: left
   prefix:
     h2: https://api.iconify.design/ci:heading-h2.svg

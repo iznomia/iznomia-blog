@@ -3,9 +3,9 @@ seo_title: 关于
 banner: https://pic1.imgdb.cn/item/63a5302d08b6830163e1aa78.jpg
 rightbar: [ghuser, toc]
 leftbar: [recent]
-author: iznomia
 title: 关于
 subtitle: 我们终将从时光归来，为宇宙奏响遗忘的镇魂曲。
+indexing: false
 ---
 
 ## 我是谁？
