@@ -13,10 +13,11 @@ author: james1BadCreeper
 language: zh-CN
 timezone: ''
 avatar: https://q1.qlogo.cn/g?b=qq&nk=61121481&s=640
+favicon: https://q1.qlogo.cn/g?b=qq&nk=61121481&s=640
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://example.com
+url: https://iznomia.github.io
 permalink: posts/:abbrlink/
 permalink_defaults:
 pretty_urls:

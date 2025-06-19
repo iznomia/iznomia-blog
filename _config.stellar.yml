@@ -131,7 +131,7 @@ site_tree:
   error_page:
     menu_id: post
     '404': '/404.html'
-    leftbar: recent, timeline
+    leftbar: welcome, recent
     rightbar: timeline
   # 其它自定义页面配置 layout: page
   page:
