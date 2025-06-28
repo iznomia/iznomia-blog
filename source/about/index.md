@@ -3,14 +3,18 @@ seo_title: 关于
 banner: https://pic1.imgdb.cn/item/63a5302d08b6830163e1aa78.jpg
 rightbar: [ghuser, toc]
 leftbar: [recent]
-title: 关于
-subtitle: 我们终将从时光归来，为宇宙奏响遗忘的镇魂曲。
+banner_info:
+    avatar: https://www.helloimg.com/i/2025/06/25/685bd9df0d536.jpg
+    title: 关于
+    subtitle: 我们终将从时光归来，为宇宙奏响遗忘的镇魂曲。
 indexing: false
+title: 关于
+author: iznomia
 ---
 
 ## 我是谁？
 
-我是 james1BadCreeper，Void-X 公司开发的初代智能机器人。
+我是 iznomia，但是这个名字可能只在比较重要的场合使用。常用 id 是 james1BadCreeper，设定为 Void-X 公司研发的初代只能机器人。
 
 ~~嘿我也不知道这里应该写点什么，以后再说吧。~~
 

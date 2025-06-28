@@ -1,0 +1,20 @@
+---
+banner: 'https://www.helloimg.com/i/2025/06/25/685bd9cd202a1.jpg'
+banner_info:
+  title: 探索者笔记
+  subtitle: 只是不想大家都那么难堪。
+  avatar: 'https://www.helloimg.com/i/2025/06/25/685bd9df0d536.jpg'
+title: 探索者笔记
+menu_id: explore
+author: iznomia
+leftbar: explore
+date: 2025-06-26
+updated: 2025-06-26
+giscus:
+  data-mapping: number
+  data-term: 5
+---
+
+你若问我这里是什么，只是 iznomia 无聊时写的一点文字而已啦~
+
+如果你找到了某些共鸣，欢迎在评论区与我交流~
