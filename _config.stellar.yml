@@ -254,7 +254,7 @@ footer:
     #   - '[关于本站](/)'
     #   - '[GitHub](/)'
   content: | # 支持 Markdown 格式
-    Nothing built can last forever.
+    <span class="cover-info">Nothing built can last forever.</span>
     本站由 [iznomia](/) 使用 [Stellar 1.30.4](https://github.com/iznomia/hexo-theme-stellar) 主题创建。
     本博客所有文章除特别声明外，均采用 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) 许可协议，转载请注明出处。
   # 主题用户越多，开发者维护和更新的积极性就越高，如果您喜欢本主题，请在适当的位置显示主题信息和仓库链接以表支持。
@@ -420,7 +420,7 @@ style:
     code: 85% # 相较于其所在行的文本大小，建议用百分比
     codeblock: 0.8125rem # 13px
   font-family:
-    logo: '"LXGW Wenkai Screen", "LXGW Wenkai", "PingFang SC", "HarmonyOS Sans SC", system-ui, -apple-system, "Microsoft Yahei", "Segoe UI", Roboto, Ubuntu, "Helvetica Neue", Arial, "WenQuanYi Micro Hei", sans-serif'
+    logo: '"LXGW Wenkai", "LXGW Wenkai Screen", "PingFang SC", system-ui, -apple-system, "Microsoft Yahei", "Segoe UI", Roboto, Ubuntu, "Helvetica Neue", Arial, "WenQuanYi Micro Hei", sans-serif'
     body: '"PingFang SC", "HarmonyOS Sans SC", -apple-system, "Microsoft Yahei", "Segoe UI", Roboto, Ubuntu, "Helvetica Neue", Arial, "WenQuanYi Micro Hei", sans-serif'
     code: '"Jetbrains Mono", Menlo, Monaco, Consolas, system-ui, "Courier New", monospace, sans-serif'
     codeblock: '"Jetbrains Mono", "Fira Code", "Cascadia Code", Menlo, Monaco, Consolas, "PingFang SC", "HarmonyOS Sans SC", system-ui, "Courier New", monospace, sans-serif'

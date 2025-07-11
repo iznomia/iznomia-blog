@@ -1,6 +1,7 @@
 ---
 wiki: oi-note
 title: 欢迎来到 NOI 一轮复习笔记
+updated: 2025-06-17
 ---
 
 ## 这是什么

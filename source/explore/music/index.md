@@ -1,9 +1,9 @@
 ---
-banner: 'https://www.helloimg.com/i/2025/06/25/685bd9cd202a1.jpg'
+banner: https://pic1.imgdb.cn/item/685150b158cb8da5c8558ca6.jpg
 banner_info:
   title: Top 10 音乐
-  subtitle: 最喜欢的音乐~
-  avatar: 'https://www.helloimg.com/i/2025/06/25/685bd9df0d536.jpg'
+  subtitle: nothing is but what is not
+  avatar: https://pic1.imgdb.cn/item/685b799f58cb8da5c86e5351.jpg
 title: 探索者笔记
 menu_id: explore
 author: iznomia
@@ -23,7 +23,7 @@ giscus:
 {% video bilibili:BV1K44y1v7BN %}
 {% endfolding %}
 
-> 一切的一切，真的只是命中注定吗…… 
+> 一切的一切，真的只是命中注定吗……
 
 ## 2. 华晨宇 —— 不重逢
 
@@ -83,12 +83,6 @@ giscus:
 
 ## 9. Laur —— Glacier
 
+## 10. Kirara Magi feat. Shion Lee —— Floating Star
 
 
-## 10. 打打だいず、月乃 —— 彼方へ、名もなき海辺より
-
-{% folding 彼方へ、名もなき海辺より %}
-{% video bilibili:BV1eKKhz3EXv %}
-{% endfolding %}
-
-不太会评价，但是真的好喜欢！！

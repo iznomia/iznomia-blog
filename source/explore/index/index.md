@@ -1,9 +1,9 @@
 ---
-banner: 'https://www.helloimg.com/i/2025/06/25/685bd9cd202a1.jpg'
+banner: https://pic1.imgdb.cn/item/685150b158cb8da5c8558ca6.jpg
 banner_info:
   title: 探索者笔记
   subtitle: 只是不想大家都那么难堪。
-  avatar: 'https://www.helloimg.com/i/2025/06/25/685bd9df0d536.jpg'
+  avatar: https://pic1.imgdb.cn/item/685b799f58cb8da5c86e5351.jpg
 title: 探索者笔记
 menu_id: explore
 author: iznomia

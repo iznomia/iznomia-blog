@@ -4,13 +4,15 @@ banner: https://pic1.imgdb.cn/item/63a5302d08b6830163e1aa78.jpg
 rightbar: [ghuser, toc]
 leftbar: [recent]
 banner_info:
-    avatar: https://www.helloimg.com/i/2025/06/25/685bd9df0d536.jpg
+    avatar: https://pic1.imgdb.cn/item/685b799f58cb8da5c86e5351.jpg
     title: 关于
     subtitle: 我们终将从时光归来，为宇宙奏响遗忘的镇魂曲。
 indexing: false
 title: 关于
 author: iznomia
 ---
+
+{% quot nothing is but what is not %}
 
 ## 我是谁？
 
