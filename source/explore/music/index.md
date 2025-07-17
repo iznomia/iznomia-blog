@@ -33,6 +33,8 @@ giscus:
 
 > “不要懂错了没错，只要懂有用没用。”
 
+“多愁善感是成不了事的”。所以，杀死过去的自己吧。这不是告别，只是永不重逢罢了。
+
 ## 3. void(Mournfinale) feat. 星熊南巫 —— Testify
 
 {% folding Testify %}
