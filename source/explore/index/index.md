@@ -8,7 +8,6 @@ title: 探索者笔记
 menu_id: explore
 author: iznomia
 leftbar: explore
-date: 2025-06-26
 updated: 2025-06-26
 giscus:
   data-mapping: number

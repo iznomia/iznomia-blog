@@ -8,7 +8,6 @@ title: 探索者笔记
 menu_id: explore
 author: iznomia
 leftbar: explore
-date: 2025-06-27
 updated: 2025-06-27
 giscus:
   data-mapping: number
@@ -85,6 +84,5 @@ giscus:
 
 ## 9. Laur —— Glacier
 
-## 10. Kirara Magi feat. Shion Lee —— Floating Star
-
+## 10. Kirara Magic feat. Shion Lee —— Floating Star
 
