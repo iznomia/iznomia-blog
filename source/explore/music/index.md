@@ -86,3 +86,8 @@ giscus:
 
 ## 10. Kirara Magic feat. Shion Lee —— Floating Star
 
+---
+
+{% quot 喜欢的音乐家 %}
+
+{% albums artists size:s %}

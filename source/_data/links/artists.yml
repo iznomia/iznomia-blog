@@ -1,6 +1,30 @@
+- title: 华晨宇
+  cover: /pictures/hcy.png
 - title: Two Steps From Hell
-  url: https://music.163.com/#/artist?id=102714
-  cover: https://p2.music.126.net/YgOdujDz7YOI4iqZJewcvg==/5995636906682159.jpg?param=340y340
+  #url: https://music.163.com/#/artist?id=102714
+  cover: /pictures/tsfh.jpg
+- title: Thomas Bergersen
+  cover: /pictures/thomas-bergersen.jpg
+- title: Camellia
+  cover: /pictures/camellia.png
 - title: Laur
-  url: https://music.163.com/#/artist/desc?id=14100246
-  cover: 
+  # url: https://music.163.com/#/artist/desc?id=14100246
+  cover: /pictures/laur.png
+- title: Sakuzyo
+  cover: /pictures/sakuzyo.png
+- title: 打打だいず
+  cover: /pictures/dddice.png
+- title: void (Mournfinale)
+  cover: /pictures/void.png
+- title: a_hisa
+  cover: /pictures/a_hisa.webp
+- title: AxR
+  cover: /pictures/axr.jpg
+- title: ARForest
+  cover: /pictures/arf.jpg
+- title: Cre-sc3NT
+  cover: /pictures/cre.jpg
+- title: Kirara Magic
+  cover: /pictures/kiraramagic.jpg
+- title: 月下散落出世
+  cover: /pictures/ash.jpg
