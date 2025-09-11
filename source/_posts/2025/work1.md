@@ -1,5 +1,5 @@
 ---
-title: 2025-08-27(#1)：重新开始
+title: 2025-08-30(#1)：重新开始
 katex: true
 tag:
   - 算法竞赛
@@ -8,7 +8,7 @@ categories:
   - 训练
 abbrlink: cfb4593d
 date: 2025-08-25 00:00:00
-updated: 2025-08-27 00:00:00
+updated: 2025-09-09 00:00:00
 ---
 
 > 又回来了，又能持续多久呢？
@@ -17,7 +17,7 @@ updated: 2025-08-27 00:00:00
 
 Lost Memory —— Sakuzyo
 
-## 1. CF2128D Sum of LDS
+## CF2128D Sum of LDS
 
 注意到以 $i$ 为右端点的区间的 LDS，一定可以以 $i$ 或者 $i-1$ 结尾，然后就完成了。
 
@@ -47,4 +47,22 @@ LCA 问题显然考虑枚举 LCA 是什么，于是在第一棵树上启发式�
 
 ---
 
+## CF2135B For the Champion
+
+记得使用演算纸而不是 iPad。
+
+## qoj 11736 Three Arrays
+
+STL 二分记得判断二分出来的东西是否在答案区间内。
+
+---
+
 感觉 <https://qoj.ac/contest/1885> 很不错。
+
+---
+
+## [EC Online 2025 I] Moving on the Plane
+
+为啥不会啊。
+
+见 NOI 一轮复习 I：杂项。
