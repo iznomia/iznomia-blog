@@ -17,3 +17,8 @@ giscus:
 - 算法竞赛中的 python：https://www.cnblogs.com/Mxrush/p/17052293.html
 - 完善数据结构部分的复习笔记
 - 学习多项式
+
+做题：
+
+- solo（练习手速和体力）
+  - https://qoj.ac/contest/1799
