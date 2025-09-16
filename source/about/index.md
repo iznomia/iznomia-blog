@@ -16,9 +16,7 @@ author: iznomia
 
 ## 我是谁？
 
-我是 iznomia，但是这个名字可能只在比较重要的场合使用。常用 id 是 james1BadCreeper，设定为 Void-X 公司研发的初代只能机器人。
-
-~~嘿我也不知道这里应该写点什么，以后再说吧。~~
+我是 iznomia。在学术场合的常用 id 是 james1BadCreeper，设定为 Void-X 公司研发的初代智能机器人。
 
 我的 QQ 是 61121481，常用邮箱是 <iznomia@outlook.com>，欢迎你与我交流。
 

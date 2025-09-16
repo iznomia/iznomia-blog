@@ -20,5 +20,11 @@ giscus:
 
 做题：
 
-- solo（练习手速和体力）
+- 2025/09/14 solo（练习手速和体力）
   - https://qoj.ac/contest/1799
+  - 数位 DP
+  - 拉格朗日插值
+  - 原根，NTT
+  - CDQ 分治，三维偏序，相关问题
+- 2025/09/16
+  - https://codeforces.com/gym/105336
