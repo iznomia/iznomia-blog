@@ -27,7 +27,7 @@ Levitation —— AxR
 
 ---
 
-VP <https://qoj.ac/contest/1799>
+solo <https://qoj.ac/contest/1799>
 
 ## G. Game
 
@@ -38,3 +38,27 @@ VP <https://qoj.ac/contest/1799>
 我的写法需要开 int128。
 
 另外我推得的答案总是小 $1$😂，不知道为什么，可能题读错了，直接加上就好了。
+
+## D. Query on Tree
+
+## K. Match
+
+---
+
+有一百万道题需要补。
+
+trio <https://qoj.ac/contest/1053>
+
+## D. Frozen Scoreboard
+
+## C. DFS Order 2
+
+## G. Quick Sort
+
+## L. Tree Distance
+
+---
+
+加强代码能力，加强体力。学数学，做 DP，练数据结构，如果可以还需要学图论和串。
+
+妈的干不完了。

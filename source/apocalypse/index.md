@@ -3,6 +3,7 @@ rightbar: []
 leftbar: []
 indexing: false
 title: ???
+author: ???
 ---
 
 并非你能所看到的……
