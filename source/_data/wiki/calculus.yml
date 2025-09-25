@@ -1,0 +1,19 @@
+name: 微积分
+title: 微积分
+subtitle: 只是某些必须要做的工作罢了
+tags: 数学
+icon: https://gcore.jsdelivr.net/gh/cdn-x/placeholder@1.0.12/image/10433048.png
+cover: https://gcore.jsdelivr.net/gh/cdn-x/placeholder@1.0.12/image/10433048.png
+description: 微积分
+search:
+  filter: /wiki/calculus/
+  placeholder: 在 calculus 中搜索...
+leftbar: 
+  - tree
+comment_title: '您可以在这里交流与讨论，如有问题或建议请指出，支持 LaTeX 语法。'
+base_dir: /wiki/calculus/
+tree:
+  '前置知识':
+    - 1
+  '极限与连续函数':
+    - 2-1

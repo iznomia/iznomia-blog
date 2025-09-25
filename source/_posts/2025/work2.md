@@ -49,16 +49,26 @@ solo <https://qoj.ac/contest/1799>
 
 trio <https://qoj.ac/contest/1053>
 
+## E. Identical Parity
+
+被硬控了😭
+
+我觉得还是需要写出 exgcd 的通解。
+
 ## D. Frozen Scoreboard
 
 ## C. DFS Order 2
 
 ## G. Quick Sort
 
+快速排序的答案是 $O(n\log n)$ 级别的，只是暴力找比哨兵大 / 小的数交换到 右 / 左边很慢，搞个数据结构优化一下即可。
+
 ## L. Tree Distance
 
 ---
 
-加强代码能力，加强体力。学数学，做 DP，练数据结构，如果可以还需要学图论和串。
+加强代码能力，加强体力（以及读题能力）。学数学，做 DP，练数据结构，如果可以还需要学图论和串。
 
-妈的干不完了。
+妈的干不完了，我想打金。
+
+要不找机会 VP 一场 CF。
