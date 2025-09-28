@@ -456,9 +456,10 @@ style:
   leftbar:
     # 可以设置：纯色/渐变色/图片作为背景
     # background: var(--leftbar-bg)
-    background-image: 'linear-gradient(70deg, #fed3cf, #c5f2ec)' #url(https://gcore.jsdelivr.net/gh/cdn-x/placeholder@1.0.13/image/sidebar-bg1@small.jpg)
-    blur-px: 100px
-    blur-bg: var(--alpha60)
+    background-image: url(https://pic1.imgdb.cn/item/68d751ffc5157e1a88395a97.jpg)
+    #background-image: 'linear-gradient(70deg, #fed3cf, #c5f2ec)' #url(https://gcore.jsdelivr.net/gh/cdn-x/placeholder@1.0.13/image/sidebar-bg1@small.jpg)
+    blur-px: 0px
+    blur-bg: var(--alpha70)
   paginator:
     prev: https://gcore.jsdelivr.net/gh/cdn-x/placeholder@1.0.12/arrow/f049bbd4e88ec.svg
     next: https://gcore.jsdelivr.net/gh/cdn-x/placeholder@1.0.12/arrow/064b95430caf4.svg

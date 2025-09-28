@@ -11,7 +11,7 @@ date: 2025-09-15 00:00:00
 updated: 2025-09-15 00:00:00
 ---
 
-Levitation —— AxR
+AxR —— Levitation
 
 <!--more-->
 
@@ -58,6 +58,10 @@ trio <https://qoj.ac/contest/1053>
 ## D. Frozen Scoreboard
 
 ## C. DFS Order 2
+
+这真的比 G 简单吗😨
+
+肯定要树形 DP，但是不难发现一个事情：关注子树内的信息是极其诡异的，因为 DFS 序只和子树外面是怎么走的有关。
 
 ## G. Quick Sort
 

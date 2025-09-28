@@ -15,7 +15,7 @@ updated: 2025-09-09 00:00:00
 
 <!--more-->
 
-Lost Memory —— Sakuzyo
+Sakuzyo —— Lost Memory
 
 ## CF2128D Sum of LDS
 
