@@ -13,7 +13,7 @@ leftbar:
 comment_title: '您可以在这里交流与讨论，如有问题或建议请指出，支持 LaTeX 语法。'
 base_dir: /wiki/calculus/
 tree:
-  '前置知识':
-    - 1
-  '极限与连续函数':
-    - 2-1
+  - 1
+  - 2
+  - 3
+  - 4

@@ -75,6 +75,8 @@ trio <https://qoj.ac/contest/1252>
 
 无语了，怎么能卡 F。
 
+某些小事情：[/posts/71998f63/](/posts/71998f63/)。
+
 ---
 
 补 <https://qoj.ac/contest/2238>。
@@ -91,7 +93,9 @@ $p>n$。
 
 ---
 
-vp [The 2025 ICPC German Collegiate Programming Contest](https://qoj.ac/contest/2535)
+trio <https://qoj.ac/contest/1305>
+
+打的还可以吧。
 
 ---
 

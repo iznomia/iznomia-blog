@@ -40,7 +40,7 @@ menubar:
     - id: wiki
       theme: '#3DC550'
       icon: solar:notebook-bookmark-bold-duotone
-      title: 专栏
+      title: 笔记
       url: /wiki/
     - id: explore
       theme: '#FA6400'
@@ -207,10 +207,10 @@ comments:
   # https://beaudar.lipk.org/
   giscus:
     src: https://giscus.app/client.js
-    data-repo: iznomia/blog-comments
-    data-repo-id: R_kgDOO7eJnA # [在此输入仓库 ID]
+    data-repo: iznomia/iznomia.github.io
+    data-repo-id: R_kgDOO7X0nw # [在此输入仓库 ID]
     data-category: Announcements # [在此输入分类名]
-    data-category-id: DIC_kwDOO7eJnM4CrhMV
+    data-category-id: DIC_kwDOO7X0n84Cv-vY
     data-mapping: pathname
     data-strict: 0
     data-reactions-enabled: 1

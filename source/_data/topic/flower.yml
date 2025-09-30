@@ -1,0 +1,4 @@
+name: 闲话
+title: 闲话
+description: 记录某个人，或者某些人的故事。
+order_by: -date # 默认是按发布日期倒序排序

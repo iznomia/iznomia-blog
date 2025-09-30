@@ -22,5 +22,5 @@ author: iznomia
 
 ## 近期动态
 
-{% timeline api:https://gitee.com/api/v5/repos/Void-X/timeline/issues?&per_page=10 %}
+{% timeline api:https://api.github.com/repos/iznomia/iznomia.github.io/issues?&per_page=10&labels=timeline %}
 {% endtimeline %}

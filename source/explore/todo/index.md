@@ -11,7 +11,7 @@ leftbar: explore
 updated: 2025-09-27
 giscus:
   data-mapping: number
-  data-term: 5
+  data-term: 4
 ---
 
 - 算法竞赛中的 python：https://www.cnblogs.com/Mxrush/p/17052293.html

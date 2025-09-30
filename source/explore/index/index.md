@@ -11,7 +11,7 @@ leftbar: explore
 updated: 2025-06-26
 giscus:
   data-mapping: number
-  data-term: 5
+  data-term: 4
 ---
 
 你若问我这里是什么，只是 iznomia 无聊时写的一点文字而已啦~

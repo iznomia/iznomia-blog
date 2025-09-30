@@ -11,7 +11,7 @@ leftbar: explore
 updated: 2025-06-27
 giscus:
   data-mapping: number
-  data-term: 5
+  data-term: 4
 ---
 
 由于这些歌风格可能非常多元，故以下排名不分先后。
