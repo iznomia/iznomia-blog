@@ -444,7 +444,11 @@ style:
     link: '#51a8e1' # 超链接颜色
     hover: 'hsl(14 100% 57%)' # 按钮高亮颜色
   animated_avatar:
-    animate: auto
+    animate: always
+    background: https://pic1.imgdb.cn/item/68db8375c5157e1a884a16e5.png
+  background_avatar:
+    enable: true
+    background: https://pic1.imgdb.cn/item/68db8375c5157e1a884a16e5.png
   codeblock:
     scrollbar: 4px
     highlightjs_theme: https://gcore.jsdelivr.net/gh/highlightjs/cdn-release@11.9/build/styles/atom-one-dark.min.css
