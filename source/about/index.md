@@ -14,6 +14,8 @@ author: iznomia
 
 {% quot nothing is but what is not %}
 
+<p style="text-align:center">物无非彼 物无非是</p>
+
 ## 我是谁？
 
 我是 iznomia。在学术场合的常用 id 是 james1BadCreeper，设定为 Void-X 公司研发的初代智能机器人。
