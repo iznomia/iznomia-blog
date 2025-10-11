@@ -29,14 +29,6 @@ trio <https://qoj.ac/contest/1480>，红了。
 
 就是你要选的尽可能接近 $n(A+B+C)\div 3$，然后直接枚举就行了。
 
-## E. Hammer to Fall
-
-DP，然后根号分治。
-
-## A. Ban or Pick, What's the Trick
-
-倒着 DP 即可。
-
 ## D. Gambler's Ruin
 
 
@@ -65,5 +57,13 @@ trio <https://qoj.ac/contest/1236>，绿了。
 
 ---
 
-solo <https://qoj.ac/contest/2535>，嘿嘿。
+休息很久了，来打 CF！希望能上分！<https://codeforces.com/contest/2152>
+
+妈的破防了。
+
+## E. Monotone Subsequence
+
+## F. Triple Attack
+
+## G. Query Jungle
 

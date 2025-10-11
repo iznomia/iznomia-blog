@@ -1,17 +1,17 @@
-name: 微积分
-title: 微积分
-subtitle: 微积分
+name: 线性代数
+title: 线性代数
+subtitle: 线性代数
 tags: 数学
 icon: https://gcore.jsdelivr.net/gh/cdn-x/placeholder@1.0.12/image/10433048.png
 cover: https://gcore.jsdelivr.net/gh/cdn-x/placeholder@1.0.12/image/10433048.png
-description: 微积分
+description: 线性代数
 search:
-  filter: /wiki/calculus/
-  placeholder: 在 calculus 中搜索...
+  filter: /wiki/linear-algebra/
+  placeholder: 在 linear algebra 中搜索...
 leftbar: 
   - tree
 comment_title: '您可以在这里交流与讨论，如有问题或建议请指出，支持 LaTeX 语法。'
-base_dir: /wiki/calculus/
+base_dir: /wiki/linear-algebra/
 tree:
   - 1
   - 2
