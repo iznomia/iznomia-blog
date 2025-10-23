@@ -44,3 +44,21 @@ solo <https://qoj.ac/contest/1828>
 ## B. City Upgrading
 
 直接 DP 就可以了。
+
+## E. Cyclically Isomorphic
+
+向模板库中添加了最小表示法。
+
+## I. Assertion
+
+你在搞笑吗。
+
+## J. Easy Problem I
+
+不是你怎么能调这么久的。
+
+## K. Easy Problem II
+
+不是你怎么能调这么久的。
+
+不如 Today's Computer is very Fast.
