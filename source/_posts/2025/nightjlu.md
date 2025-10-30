@@ -8,7 +8,7 @@ updated: 2025-09-26 00:00:00
 categories:
     - 记录
     - 闲话
-author: iznomia
+author: james1BadCreeper
 poster: # 海报（可选，全图封面卡片）
   headline: 夜行
   topic: 在某些事情中寻找新的可能
