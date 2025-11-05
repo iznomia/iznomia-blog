@@ -22,3 +22,7 @@ Onlap —— Burn
 ## 1 [4th ucup s3] Christmas Tree
 
 见 NOI 一轮复习：状态设计。
+
+## [Nanjing Regional 2024] Strips
+
+简单。

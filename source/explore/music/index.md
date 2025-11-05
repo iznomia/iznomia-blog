@@ -23,7 +23,7 @@ giscus:
 |The Promise|Globus|
 |world.execute (me) ;|Mili|
 |虚幻与现实|华晨宇|
-|不重逢|华晨宇|
+|七重人格|华晨宇|
 |#1f1e33 (Another long "#ant1p01e" version)|かめりあ|
 |Floating Star|Kirara Magic feat. Shion Lee|
 
