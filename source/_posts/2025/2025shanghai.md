@@ -9,6 +9,7 @@ categories:
 abbrlink: f79d0940
 date: 2025-11-24 00:00:00
 updated: 2025-11-25 00:00:00
+topic: travel
 cover: https://pic1.imgdb.cn/item/6925525d3203f7be002febc4.jpg
 ---
 

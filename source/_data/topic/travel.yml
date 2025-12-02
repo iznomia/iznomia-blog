@@ -1,0 +1,4 @@
+name: 游记
+title: 游记
+description: 一些旅行日记
+order_by: -date # 默认是按发布日期倒序排序

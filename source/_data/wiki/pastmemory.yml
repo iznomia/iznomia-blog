@@ -1,0 +1,18 @@
+name: 那些你所未知的
+title: 那些你所未知的
+subtitle: "Undiscovered Memories"
+tags: 架空
+icon: https://gcore.jsdelivr.net/gh/cdn-x/placeholder@1.0.12/image/10433048.png
+cover: https://gcore.jsdelivr.net/gh/cdn-x/placeholder@1.0.12/image/10433048.png
+description: 你未曾注意到的一切，都将在这里揭晓。
+coverpage: true
+search:
+  filter: /wiki/pastmemory/
+  placeholder: 在 pastmemory 中搜索...
+leftbar: 
+  - tree
+comment_title: '来过，就留下您的脚印吧！'
+base_dir: /wiki/pastmemory/
+tree:
+  '阅读须知':
+    - index
