@@ -1,16 +1,19 @@
-name: 微积分
-title: 微积分
-subtitle: 微积分
+name: 高等数学
+title: 高等数学
+subtitle: 高等数学
 tags: 数学
 icon: https://gcore.jsdelivr.net/gh/cdn-x/placeholder@1.0.12/image/10433048.png
 cover: https://gcore.jsdelivr.net/gh/cdn-x/placeholder@1.0.12/image/10433048.png
-description: 微积分
+description: 高等数学
 search:
-  filter: /wiki/calculus/
-  placeholder: 在 calculus 中搜索...
+  filter: /wiki/maths/
+  placeholder: 在 maths 中搜索...
 leftbar: 
   - tree
 comment_title: '您可以在这里交流与讨论，如有问题或建议请指出，支持 LaTeX 语法。'
-base_dir: /wiki/calculus/
+base_dir: /wiki/maths/
 tree:
+  - 0-1
   - 1
+  - 2
+  - 3
