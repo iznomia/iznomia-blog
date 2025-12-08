@@ -16,3 +16,5 @@ base_dir: /wiki/pastmemory/
 tree:
   '阅读须知':
     - index
+  '天灾':
+    - disaster1
