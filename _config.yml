@@ -113,6 +113,13 @@ markdown:
       options:
         throwOnError: false
         strict: false
+        macros: {
+          "\\d": "\\mathrm{d}",
+          "\\arccot": "\\operatorname{arccot}",
+          "\\lcm": "\\operatorname{lcm}",
+          "\\ie": "\\operatorname{i.e.}",
+        }
+	
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
