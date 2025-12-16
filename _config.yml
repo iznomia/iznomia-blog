@@ -117,7 +117,7 @@ markdown:
           "\\d": "\\mathrm{d}",
           "\\arccot": "\\operatorname{arccot}",
           "\\lcm": "\\operatorname{lcm}",
-          "\\ie": "\\operatorname{i.e.}",
+          "\\ie": "\\operatorname{i.e.}"
         }
 	
 
