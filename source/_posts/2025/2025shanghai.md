@@ -37,7 +37,7 @@ Gram 抬手好帅，削除射线好酷炫。
 
 第一次知道 TG 是个法师，有点帅的。期待和 Laur 的新曲。
 
-期待 Ashrount 和打打的新曲。
+期待 Ashrount 和打打的新曲。后面那段 kick 太震惊了，太厉害了，真的不是 Myosuke 或者 Gram 吗。
 
 {% image https://pic1.imgdb.cn/item/6925522c3203f7be002fe988.png 象征性地放个图 %}
 
