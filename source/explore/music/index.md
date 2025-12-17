@@ -8,7 +8,7 @@ title: 探索者笔记
 menu_id: explore
 author: iznomia
 leftbar: explore
-updated: 2025-06-27
+updated: 2025-12-17
 giscus:
   data-mapping: number
   data-term: 4
@@ -23,7 +23,7 @@ giscus:
 |The Promise|Globus|
 |world.execute (me) ;|Mili|
 |虚幻与现实|华晨宇|
-|七重人格|华晨宇|
+|Poet of the Stars|Cre-sc3NT|
 |#1f1e33 (Another long "#ant1p01e" version)|かめりあ|
 |Floating Star|Kirara Magic feat. Shion Lee|
 
