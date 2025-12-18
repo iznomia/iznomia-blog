@@ -1,10 +1,10 @@
-name: 那些你所未知的
-title: 那些你所未知的
+name: 未晓之忆
+title: 未晓之忆
 subtitle: "Undiscovered Memories"
 tags: 架空
 icon: https://gcore.jsdelivr.net/gh/cdn-x/placeholder@1.0.12/image/10433048.png
 cover: https://gcore.jsdelivr.net/gh/cdn-x/placeholder@1.0.12/image/10433048.png
-description: 你未曾注意到的一切，都将在这里揭晓。
+description: 也许埋藏着，某些并不存在的历史。
 coverpage: true
 search:
   filter: /wiki/pastmemory/
@@ -19,4 +19,5 @@ tree:
   '天灾':
     - disaster1
     - disaster2
+    - disaster3
     - disaster13
