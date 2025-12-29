@@ -1,5 +1,5 @@
 ---
-title: 2025-12-06(#9)：
+title: 2025-12-30(#9)：甚至不明白 这泪水的意义
 katex: true
 tag:
   - 算法竞赛
@@ -7,13 +7,15 @@ categories:
   - 算法竞赛
   - 训练
 abbrlink: 8d6b7bc5
-date: 2025-12-06 00:00:00
-updated: 2025-12-06 00:00:00
+date: 2025-12-30 00:00:00
+updated: 2025-12-30 00:00:00
 ---
 
-沉淀了一段时间了，稍微来写点算法竞赛！！
+Essbee —— 悔_
 
 <!--more-->
+
+今年最后一篇了！
 
 ## 8 [2025 Shenyang] The Bond Beyond Time
 
