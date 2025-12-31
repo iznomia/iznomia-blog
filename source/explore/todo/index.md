@@ -8,19 +8,10 @@ title: 探索者笔记
 menu_id: explore
 author: iznomia
 leftbar: explore
-updated: 2025-09-27
+updated: 2025-12-31
 giscus:
   data-mapping: number
   data-term: 4
 ---
 
-- 算法竞赛中的 python：https://www.cnblogs.com/Mxrush/p/17052293.html
-- 完善数据结构部分的复习笔记
-- 学习多项式
-
-做题：
-
-- https://qoj.ac/contest/1828
-- https://qoj.ac/contest/2535
-- https://qoj.ac/contest/1871
-- https://qoj.ac/contest/1817
+暂时没有内容。
