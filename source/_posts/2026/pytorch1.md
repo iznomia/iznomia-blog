@@ -4,16 +4,21 @@ katex: true
 tag:
   - PyTorch
   - 深度学习
+  - 机器学习
 categories:
   - 计算机科学
 topic: pytorch
-description: 来玩深度学习！本文初步介绍了 PyTorch，包括简单的神经网络和深度学习工作流。
 abbrlink: d259e7d7
-date: 2026-01-12 00:00:00
-updated: 2025-01-12 00:00:00
+date: 2026-01-18 00:00:00
+updated: 2025-01-18 00:00:00
+cover: https://pic1.imgdb.cn/item/696b686761bfebba12605d56.jpg
+description: 来玩深度学习！本文初步介绍了机器学习的概念，来为学习 PyTorch 做一些准备。
 ---
 
-参考的教材是 <https://m-tob.jd.com/ebook/30806450>。
+参考的教材：
+
+- 《Pytorch 深度学习简论》：https://m-tob.jd.com/ebook/30806450
+- 《机器学习》：西瓜书
 
 ## 1. 猴王出世
 
@@ -21,4 +26,47 @@ updated: 2025-01-12 00:00:00
 
 深度学习的目的是用数学手段，使用大量数据来近似输入和输出差距很远的函数。比如输入一张图片，输出一段文字来描述这个图片。
 
-由于这个函数是个十分复杂的多元函数，我们采用“张量”来描述它。
+### 1.1 绪论
+
+机器学习是从数据中产生模型（model）的算法，即 learning algorithm。
+
+数据集 $D=\{\bm{x_1},\cdots,\bm{x_n}\}$ 包含了 $m$ 个示例（instance）或样本（sample），或者叫“特征向量”（feature vector），每个示例是 $d$ 维样本空间 $\mathcal X$ 中的一个元素，$d$ 称为维数（dimensionality）。
+
+学得模型对应了关于数据的某种潜在规律，称为“假设”（hypothesis），规律自身称为“真相”（ground-truth），学习的过程是在逼近真相。
+ 
+$(\bm x_i,\bm y_i)$ 表示一个“样例”（example），$\bm y_i$ 称为“标记”（label），$\bm y_i\in \mathcal Y$，如果 $\mathcal Y$ 是离散的，那么这个工作称为“分类”（classification），连续的则称为“回归”（regression），这两者都属于“监督学习”。
+
+若没有标记信息，我们可以对样本进行“聚类”（clustering），即将样本分成若干组，每组称为一个“簇”（cluster），这是“无监督学习”的一种。
+
+学得模型能适用于新样本的能力称为“泛化”（generalization）能力。
+
+假设空间 $\mathcal H$ 指的是模型 $f$ 的集合，而版本空间指符合样例的模型集合。版本空间大概率不只一个元素，那么我们应该选择哪个作为我们的模型呢？
+
+“奥卡姆剃刀”是一种常用的原则，即选择最简单的那个。但事实上，总存在一种样本空间，使得那些看上去非常离谱的拟合实际上是更优秀的。
+
+这就是“没有免费的午餐”的定理。NFL 定理的前提是每个问题出现的概率相同。
+
+### 1.2 模型评估与选择
+
+我们偏向于选择泛化误差尽可能小的模型。
+
+1. 留出法：$2/3\sim 4/5$ 的样本用于训练，剩下的用于测试。
+2. 交叉验证法：将数据集 $D$ 划为大小相似的 $k$ 个互斥子集，进行 $m$ 次，称为“$m$ 次 $k$ 折交叉验证”，常见的有 $k=m=10$；当 $k=m$ 时得到“留一法”，训练出的模型往往与直接用 $D$ 训练出的模型很相似。
+3. 自助法：在数据集较小时，可以将取出的样本再扔回数据集，重复 $m$ 次得到一个 $D'$。
+
+我们用均方误差描述学习器 $f$ 的性能：
+
+$$
+E(f;\mathcal D)=\int_{\bm x\sim \mathcal D} (f(\bm x)-y)^2p(\bm x)\d x
+$$
+
+---
+
+接下来我们介绍 classification 时常用的性能度量。
+
+错误率 $E(f;\mathcal D)=\int_{\bm x\sim \mathcal D}\mathbb I(f(\bm x)\ne y)p(\bm x)\d x$，精度 $\operatorname{acc}(f;\mathcal D)=1-E(f;\mathcal D)$。
+
+
+
+## 2. 预训练网络
+

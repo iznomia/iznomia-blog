@@ -349,7 +349,7 @@ plugins:
   preload:
     enable: true
     service: flying_pages # flying_pages
-    flying_pages: https://gcore.jsdelivr.net/npm/flying-pages@2/flying-pages.min.js
+    flying_pages: https://cdn.bootcdn.net/ajax/libs/flying-pages/2.1.2/flying-pages.min.js
 
   # lazyload
   # https://www.npmjs.com/package/vanilla-lazyload
