@@ -66,7 +66,17 @@ $$
 
 错误率 $E(f;\mathcal D)=\int_{\bm x\sim \mathcal D}\mathbb I(f(\bm x)\ne y)p(\bm x)\d x$，精度 $\operatorname{acc}(f;\mathcal D)=1-E(f;\mathcal D)$。
 
+对于二分类问题，将样例根据其真实类别和学习器预测的类别划分为真正例、假正例、真反例和假反例（$TP,FP,TN,FN$）。查准率 precision 定义为 $P=\frac{TP}{TP+FP}$，查全率 recall 定义为 $R=\frac{TP}{TP+FN}$。一般来说，两者时矛盾的，除非任务非常简单。
 
+很多情形下最终会对预测结果进行排序，从前到后我们认为其是正例的概率越低。这样，以查准率为纵轴、查全率为横轴可以绘制 P-R 曲线，将 $R=P$ 的点视为平衡点（Break-Event Point, BEP），可以通过比较 BEP 来判断学习器性能。
 
-## 2. 预训练网络
+但是 BEP 有点过于简单了，常用的是 $F1=\dfrac{2PR}{P+R}=\dfrac{2TP}{2TP+FN+FP}$，即 $P,R$ 的调和平均数。
+
+F1 度量的一般形式是 $F_{\beta}=\dfrac{(1+\beta^2)PR}{\beta^2 P+R}$，当 $\beta>1$ 时查全率影响更大，$\beta<1$ 时查准率影响更大。
+
+如果对所有 $P,R$ 取平均值，可以算得“宏 F1”（$\operatorname{macro}-F1$），对所有 $TP,FP,TN,FN$ 取平均值可以算得“微 F1”（$\operatorname{micro}-F1$）。
+
+“排序”本身的质量好坏很大程度上决定了学习器的“期望泛化性能”，预测概率越大说明我们的模型认为其更可能是正例。纵轴为真正例率（True Positive Rate）$\operatorname{TPR}=\dfrac{TP}{TP+FN}$，横轴为假正例率 $\operatorname{FPR}=\dfrac{FP}{TN+FP}$，得到 ROC 曲线。在绘制 ROC 曲线时，假定有 $m^+$ 个正例和 $m^-$ 个反例，首先会把所有样例预测为反例，得到坐标 $(0,0)$，然后扫描排序后的序列作为预测阈值，当前为真正例则得到坐标 $(x,y+\frac 1{m^+})$，当前为假正例得到坐标 $(x+\frac 1{m^-},y)$。比较模型的好坏就会计算 ROC 曲线下的面积，即 $\displaystyle\operatorname{AUC}=\frac 1 2\sum_{i=1}^m(x_{i+1}-x_i)(y_i+y_{i+1})$。模型的损失为 $\displaystyle\ell_{rank}=\frac{1}{|D^+||D^-|}\sum_{\bm x^+\in D^+}\sum_{\bm x^-\in D^-}\left(\mathbb I(f(\bm x^+)<f(\bm x^-))+\frac 1 2 \mathbb I(f(\bm x^+)=f(\bm x^-))\right)$，不难发现 $\ell_{rank}=1-\operatorname{AUC}$。
+
+## 2. 线性模型
 

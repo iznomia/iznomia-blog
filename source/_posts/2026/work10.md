@@ -48,3 +48,8 @@ BlackY feat. Risa Yuzuki —— 華神樂
 ## 15 K. Determinant
 
 这不是特征多项式模板吗。
+
+## 16 F. Rhythm Game
+
+决策单调性。
+
